@@ -1,0 +1,1 @@
+<command>curl -o public/favicon.ico https://raw.githubusercontent.com/stackblitz/stackblitz-webcontainer-docs/main/docs/public/img/nexus-logo.png</command>
